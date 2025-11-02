@@ -1,0 +1,473 @@
+{
+  "waterspider": {
+    "bind": -1,
+    "state": false,
+    "Auto Look Up": true
+  },
+  "windcharge": {
+    "bind": -1,
+    "state": false
+  },
+  "targetstrafe": {
+    "bind": -1,
+    "state": false,
+    "Radius": 3.0,
+    "Direction": "Auto",
+    "Only On Ground": false,
+    "Auto Jump": true,
+    "Run Into Player": false,
+    "Hold Sprint": true
+  },
+  "carrotfarmer": {
+    "bind": -1,
+    "state": false,
+    "Скорость": 10.0,
+    "Поворот": true,
+    "Дистанция": 2.0,
+    "Автопосадка": true,
+    "Требовать мотыгу": true
+  },
+  "chorusfarmer": {
+    "bind": -1,
+    "state": false,
+    "Скорость": 10.0,
+    "Поворот": true,
+    "Дистанция": 5.0,
+    "Дистанция стрельбы": 8.0,
+    "Автопереключение": true,
+    "Искать позицию": true,
+    "Собирать плоды": true,
+    "Автопосадка": true
+  },
+  "automessage": {
+    "bind": -1,
+    "state": false,
+    "Скорость": 200.0
+  },
+  "berryfarmer": {
+    "bind": -1,
+    "state": false,
+    "Скорость": 10.0,
+    "Поворот": true,
+    "Дистанция": 2.0
+  },
+  "scaffold": {
+    "bind": -1,
+    "state": false,
+    "Скорость": 20.0,
+    "Поворот": true,
+    "Анимация": true
+  },
+  "scaffolddop": {
+    "bind": -1,
+    "state": false,
+    "Mode": "Block"
+  },
+  "serverhelper": {
+    "bind": -1,
+    "state": false,
+    "Anti Fly": -1,
+    "Experience Scroll": -1,
+    "Explosive Trap": -1,
+    "Default Trap": -1,
+    "Stun": -1,
+    "Explosive Thing": -1,
+    "SnowBall": -1,
+    "Gods Aura": -1,
+    "Trap": -1,
+    "Plast": -1,
+    "Clear Dust": -1,
+    "Fire Tornado": -1,
+    "Disorientation": -1,
+    "Auto Loot": true,
+    "Consumables Timer": true,
+    "Auto Point": true,
+    "Auto Shulker": true,
+    "Auto Repair": true
+  },
+  "waterspeed": {
+    "bind": -1,
+    "state": false,
+    "Mode": "FunTime"
+  },
+  "clickaction": {
+    "bind": -1,
+    "state": false,
+    "Ender Pearl": -1,
+    "Wind Charge": -1,
+    "Any Buff": -1,
+    "Any Debuff": -1,
+    "EXP Bottle": -1,
+    "Friend Add": -1
+  },
+  "itemtweaks": {
+    "bind": -1,
+    "state": false,
+    "Item Scroller delay": 100.0
+  },
+  "hud": {
+    "bind": -1,
+    "state": false,
+    "Client Color": -9659651,
+    "Elements": "",
+    "Notifications": "",
+    "Previous Audio": -1,
+    "Stop/Play Audio": -1,
+    "Next Audio": -1
+  },
+  "auctionhelper": {
+    "bind": -1,
+    "state": false,
+    "Cheapest Item": -11796661,
+    "Cost Effective Item": -46261
+  },
+  "projectileprediction": {
+    "bind": -1,
+    "state": false
+  },
+  "xray": {
+    "bind": -1,
+    "state": false,
+    "Mode": "Block Update",
+    "Blocks": ""
+  },
+  "aura": {
+    "bind": -1,
+    "state": false,
+    "Target Type": "",
+    "Attack Setting": "",
+    "Move correction": {
+      "state": true,
+      "Correction Type": "Free"
+    },
+    "Rotation Type": "Snap",
+    "Target Esp": {
+      "state": true,
+      "Target Esp Type": "Circle",
+      "Ghost Speed": 1.0
+    }
+  },
+  "autoswap": {
+    "bind": -1,
+    "state": false,
+    "First item": "Totem of Undying",
+    "Second item": "Totem of Undying",
+    "Item use key": -1
+  },
+  "nofrienddamage": {
+    "bind": -1,
+    "state": false
+  },
+  "hitbox": {
+    "bind": -1,
+    "state": false,
+    "XZ Expand": 0.2,
+    "Y Expand": 0.0
+  },
+  "antibot": {
+    "bind": -1,
+    "state": false
+  },
+  "autocrystal": {
+    "bind": -1,
+    "state": false
+  },
+  "autosprint": {
+    "bind": -1,
+    "state": false,
+    "Keep Sprint": true,
+    "Ignore Hunger": true
+  },
+  "nopush": {
+    "bind": -1,
+    "state": false,
+    "Ignore": ""
+  },
+  "elytrahelper": {
+    "bind": -1,
+    "state": false,
+    "Elytra Swap": -1,
+    "Use FireWork": -1,
+    "Quick Start": false
+  },
+  "clanupgrade": {
+    "bind": -1,
+    "state": false
+  },
+  "nodelay": {
+    "bind": -1,
+    "state": false,
+    "Type": ""
+  },
+  "autorespawn": {
+    "bind": -1,
+    "state": false,
+    "Mode": "FunTime Back"
+  },
+  "noslow": {
+    "bind": -1,
+    "state": false,
+    "Target Type": "",
+    "Item Mode": "Grim New",
+    "Web Mode": "Grim"
+  },
+  "screenwalk": {
+    "bind": -1,
+    "state": false
+  },
+  "elytrafly": {
+    "bind": -1,
+    "state": false,
+    "Speed": 0.8
+  },
+  "blink": {
+    "bind": -1,
+    "state": false
+  },
+  "elytrarecast": {
+    "bind": -1,
+    "state": false
+  },
+  "autotool": {
+    "bind": -1,
+    "state": false
+  },
+  "nuker": {
+    "bind": -1,
+    "state": false,
+    "Rotate": true,
+    "Down": true,
+    "Radius": 3.0
+  },
+  "fastbreak": {
+    "bind": -1,
+    "state": false
+  },
+  "cameratweaks": {
+    "bind": -1,
+    "state": false,
+    "Aspect Ratio": {
+      "state": true,
+      "Ratio": 1.0
+    },
+    "Camera Clip": true,
+    "Camera Distance": 3.0,
+    "Zoom": -1,
+    "Free Look": -1
+  },
+  "handtweaks": {
+    "bind": -1,
+    "state": false,
+    "Animation": {
+      "state": true,
+      "Swing Type": "Swipe"
+    },
+    "Offsets": {
+      "state": true,
+      "Main Hand X": 0.0,
+      "Main Hand Y": 0.0,
+      "Main Hand Z": 0.0,
+      "Off Hand X": 0.0,
+      "Off Hand Y": 0.0,
+      "Off Hand Z": 0.0
+    },
+    "Swing Duration": 1.0
+  },
+  "blockhighlight": {
+    "bind": -1,
+    "state": false
+  },
+  "entityesp": {
+    "bind": -1,
+    "state": false,
+    "Tag Size": 13.0,
+    "Entity Type": "",
+    "Player Settings": ""
+  },
+  "autototem": {
+    "bind": -1,
+    "state": false,
+    "Max Health": 4.0,
+    "Triggers": "",
+    "TNT Distance": 8.0
+  },
+  "enderchestplus": {
+    "bind": -1,
+    "state": false,
+    "Fold Items Button": -1
+  },
+  "debugcamera": {
+    "bind": -1,
+    "state": false,
+    "Speed": 2.0,
+    "Freeze": false
+  },
+  "triggerbot": {
+    "bind": -1,
+    "state": false,
+    "Attack setting": ""
+  },
+  "containerstealer": {
+    "bind": -1,
+    "state": false,
+    "Stealer Type": "FunTime",
+    "Delay": 100.0,
+    "Items": ""
+  },
+  "autotpaccept": {
+    "bind": -1,
+    "state": false,
+    "Only Friends": false
+  },
+  "arrows": {
+    "bind": -1,
+    "state": false,
+    "Radius": 50.0,
+    "Size": 16.0
+  },
+  "autoleave": {
+    "bind": -1,
+    "state": false,
+    "Leave Type": "Hub",
+    "Triggers": "",
+    "Max Distance": 10.0
+  },
+  "worldtweaks": {
+    "bind": -1,
+    "state": false,
+    "World Setting": "",
+    "Bright": 1.0,
+    "Time": 12.0,
+    "Fog Distance": 100.0
+  },
+  "norender": {
+    "bind": -1,
+    "state": false,
+    "Elements": ""
+  },
+  "criticals": {
+    "bind": -1,
+    "state": false,
+    "Mode": "Grim"
+  },
+  "targetpearl": {
+    "bind": -1,
+    "state": false,
+    "Mode": "Always",
+    "Targets": "Aura Target",
+    "Throw": -1,
+    "Distance": 6.0
+  },
+  "nameprotect": {
+    "bind": -1,
+    "state": false,
+    "Name": "Protect",
+    "Friends": true
+  },
+  "abilitiesfly": {
+    "bind": -1,
+    "state": false,
+    "Speed": 2.0
+  },
+  "seeinvisible": {
+    "bind": -1,
+    "state": false,
+    "Alpha": 0.5
+  },
+  "autoarmor": {
+    "bind": -1,
+    "state": false
+  },
+  "autouse": {
+    "bind": -1,
+    "state": false,
+    "Mode": ""
+  },
+  "airjump": {
+    "bind": -1,
+    "state": false,
+    "Mode": "Polar Block Collision"
+  },
+  "nointeract": {
+    "bind": -1,
+    "state": false
+  },
+  "crosshair": {
+    "bind": -1,
+    "state": false,
+    "Attack Indent": 10.0,
+    "Indent": 0.0,
+    "Width": 4.0,
+    "Height": 1.0
+  },
+  "fireworkbooster": {
+    "bind": -1,
+    "state": false,
+    "Mode": "Grim"
+  },
+  "spider": {
+    "bind": -1,
+    "state": false,
+    "Mode": "Block"
+  },
+  "serverrpspoof": {
+    "bind": -1,
+    "state": false
+  },
+  "target hud": {
+    "posX": 10,
+    "posY": 40
+  },
+  "potions": {
+    "posX": 210,
+    "posY": 10
+  },
+  "hot keys": {
+    "posX": 300,
+    "posY": 10
+  },
+  "boss bars": {
+    "posX": 0,
+    "posY": 0
+  },
+  "armor": {
+    "posX": 0,
+    "posY": 0
+  },
+  "watermark": {
+    "posX": 10,
+    "posY": 10
+  },
+  "inventory": {
+    "posX": 390,
+    "posY": 10
+  },
+  "cool downs": {
+    "posX": 120,
+    "posY": 10
+  },
+  "staff list": {
+    "posX": 130,
+    "posY": 40
+  },
+  "notifications": {
+    "posX": 0,
+    "posY": 50
+  },
+  "score board": {
+    "posX": 10,
+    "posY": 100
+  },
+  "media player": {
+    "posX": 10,
+    "posY": 400
+  },
+  "hotbar": {
+    "posX": 0,
+    "posY": 50
+  },
+  "player info": {
+    "posX": 0,
+    "posY": 0
+  }
+}
